@@ -28,7 +28,8 @@ Java Eclipse
 
 ## Screenshots and Images
 
-![Generation1](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/blob/master/Gen1.jpg) ![Generation2](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/blob/master/Gen2.jpg)
+![Generation1](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen1.jpg) ![Generation2](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen2.jpg)
+
 
 
 ## Authors
