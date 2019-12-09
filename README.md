@@ -57,6 +57,6 @@ Generation 2 - Alive (blue) and dead (white) cells after 1 generation
 
 
 ## Acknowledgments
-
-* 
+Useful sources which helped me a lot 
+* https://stackoverflow.com/questions/20292418/manipulating-the-pixels-within-a-bufferedimage-through-an-array
 *  
