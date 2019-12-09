@@ -28,7 +28,12 @@ Java Eclipse
 
 ## Screenshots and Images
 
-![Generation1](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen1.jpg) ![Generation2](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen2.jpg)
+Generation 1 - Alive (blue) and dead (white) cells on start
+![Generation1](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen1.jpg)
+
+
+Generation 2 - Alive (blue) and dead (white) cells after 1 generation 
+ ![Generation2](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen2.jpg)
 
 
 
