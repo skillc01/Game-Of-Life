@@ -1,13 +1,25 @@
 ## Game Of Life
 
 A Java implementation of Conway's Game Of Life.
+An infinite two-dimensional grid inhabited by 'cells'.
+Each cell interacts with up to eight neighbours, which are the cells that are
+horizontally, vertically, or diagonally adjacent.
+From an initial seed grid the game "evolves" one iteration at a time. An iteration
+applies rules to the grid to determine its next state.
 
 Rules of the Game Of Life:
+1 - No interactions - When there are no live cells
+Then on the next generation there are still no live cells
+2 - Underpopulation - When a live cell has fewer than two neighbours
+Then this cell dies
+3 - Overcrowding - When a live cell has more than three neighbours
+Then this cell dies
+4 - Survival - When a live cell has two or three neighbours
+Then this cell stays alive
+5 - Creation of Life - When an empty position has exactly three neighbouring cells
+Then a cell is created in this position
 
- 
-
-
-
+A game of life with a starting state of no live cells: after one generation the next state also contains no live cells.
 
 ## Getting Started
 
