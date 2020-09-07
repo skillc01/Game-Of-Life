@@ -21,13 +21,6 @@ Then a cell is created in this position
 
 A game of life with a starting state of no live cells: after one generation the next state also contains no live cells.
 
-## Getting Started
-
-
-
-### Prerequisites
-
-
 
 ### Installing
 
@@ -48,15 +41,12 @@ Generation 2 - Alive (blue) and dead (white) cells after 1 generation
  ![Generation2](https://raw.githubusercontent.com/ChloeLS/Game-Of-Life/master/Gen2.jpg)
 
 
-
 ## Authors
 
 * **Chloe Skillman** - [Github](https://github.com/ChloeLS)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
 
-
 ## Acknowledgments
 Useful sources which helped me a lot 
 * https://stackoverflow.com/questions/20292418/manipulating-the-pixels-within-a-bufferedimage-through-an-array
-*  
